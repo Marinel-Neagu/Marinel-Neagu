@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Marinel Neagu
+- 👋 Hi, I’m @Marinel-Neagu
 - 👀 I’m interested in GUI,web dev and scripting with Python
 - 🌱 I’m currently learning Tkinter
 - 💞️ I’m looking to collaborate on opensource projects and apps in Python
